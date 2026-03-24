@@ -310,7 +310,8 @@ int main()
     return 0;
 }
 # Output:
-<img width="592" height="177" alt="image" src="https://github.com/user-attachments/assets/5854c52f-a299-4899-8bea-82b4a196f43e" />
+<img width="373" height="77" alt="image" src="https://github.com/user-attachments/assets/6933da1f-4325-4d5a-b162-6256706ed009" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
